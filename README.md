@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Souvik Ghosh
-- 👀 I’m interested in Data Science related stuffs
-- 🌱 I’m currently learning R programming
+- 👀 I’m interested in Data Science and Cloud related stuffs
+- 🌱 I’m currently learning Julia and R programming
 
 
 <!---
