@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Souvik Ghosh
-- 👀 I’m interested in Data Science and Cloud related stuffs
-- 🌱 I’m currently learning Julia and R programming
+👋 Hi, I'm Souvik Ghosh
+👀 Data Scientist and AWS/AZURE Cloud Engineer
+🌱 Currently exploring LangChain, LLM, and other GenerativeAI-related topics
 
 
 <!---
