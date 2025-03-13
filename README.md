@@ -6,7 +6,7 @@ I'm a Data Science enthusiast passionate about Artificial Intelligence.
 
 🌱 I’m continuously learning and expanding my knowledge in the field of AI and its applications.
 
-👯 I'm seeking opportunities to contribute to projects in the fields of AI, data science, and machine learning.
+👯 I'm seeking opportunities to contribute to projects in the fields of AI, data science, machine learning and deep learning.
 
 📫 How to reach me: am.souvikghosh@gmail.com or https://www.linkedin.com/in/am-souvikghosh/
 
