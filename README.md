@@ -11,3 +11,5 @@ I'm a Data Science enthusiast passionate about Artificial Intelligence.
 📫 How to reach me: am.souvikghosh@gmail.com or https://www.linkedin.com/in/am-souvikghosh/
 
 😄 Pronouns: He/Him
+
+![Profile views](https://counter.kuber.studio/souvikghosh-git/dark/count.svg)
