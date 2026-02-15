@@ -1,14 +1,18 @@
-Hi there, I'm Souvik Ghosh! 👋
+Hi there, I'm Souvik Ghosh 👋
 
-I'm a Data Science enthusiast passionate about Artificial Intelligence.
+Platform & AI/GenAI Engineer specializing in building scalable, production-grade AI platforms and cloud-native infrastructure.
 
-🔭 I’m currently exploring the fascinating world of Generative AI and experimenting with Large Language Models (LLMs).
+🔭 Currently working on AI platform engineering, LLMOps, and GenAI infrastructure within AWS Cloud.
+⚙️ Designing and deploying RAG pipelines, model serving, observability, and end-to-end MLOps/LLMOps frameworks
+☁️ Strong focus on Infrastructure as Code (IaC) using Terraform and CloudFormation for scalable, secure cloud provisioning
+🔁 Building workflow-driven, resilient distributed systems using Temporal for AI and platform orchestration
+🧠 Exploring agentic AI systems, vector databases, AI platform architecture, and enterprise GenAI adoption
+🚀 Passionate about DevOps for AI, automation, scalable infra, and productionizing ML/LLM workloads
+🤝 Open to collaborating on AI platform engineering, cloud infra automation, and GenAI solutions
 
-🌱 I’m continuously learning and expanding my knowledge in the field of AI and its applications.
+📫 Reach me: am.souvikghosh@gmail.com OR ghosh.krisnen@gmail.com
 
-👯 I'm seeking opportunities to contribute to projects in the fields of AI, data science, machine learning and deep learning.
-
-📫 How to reach me: am.souvikghosh@gmail.com or https://www.linkedin.com/in/am-souvikghosh/
+🔗 LinkedIn: https://www.linkedin.com/in/am-souvikghosh/ 
 
 😄 Pronouns: He/Him
 
